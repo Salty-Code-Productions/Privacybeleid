@@ -1,4 +1,3 @@
-# Privacybeleid Salty Code Productions
 *Versie 0.1*  
 Deze pagina is voor het laatst aangepast op 10-09-2020.  
 
