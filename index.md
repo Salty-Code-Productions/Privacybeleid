@@ -29,6 +29,6 @@ Wij bieden alle bezoekers de mogelijkheid tot het inzien, veranderen, of verwijd
 Als u uw gegevens aan wilt passen of uzelf uit onze bestanden wilt laten halen, kunt u contact met ons op nemen. Zie onderstaande contactgegevens.
 
 Vragen en feedback
-We controleren regelmatig of we aan dit privacybeleid voldoen. Als u vragen heeft over dit privacybeleid, kunt u contact met ons opnemen:
-Salty Code Productions
+We controleren regelmatig of we aan dit privacybeleid voldoen. Als u vragen heeft over dit privacybeleid, kunt u contact met ons opnemen:  
+Salty Code Productions  
 *saltycodeproductions@outlook.com*
