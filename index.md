@@ -1,6 +1,8 @@
 # Privacybeleid Salty Code Productions
-*Versie 0.1*  
-Deze pagina is voor het laatst aangepast op 10-09-2020.  
+
+> English below
+
+Deze pagina is voor het laatst aangepast op 29-03-2023.  
 
 Wij zijn er van bewust dat u vertrouwen stelt in ons. Wij zien het dan ook als onze verantwoordelijkheid om uw privacy te beschermen. Op deze pagina laten we u weten welke gegevens we verzamelen als u onze software gebruikt, waarom we deze gegevens verzamelen en hoe we hiermee uw gebruikservaring verbeteren. Zo snapt u precies hoe wij werken.
 Dit privacybeleid is van toepassing op de diensten van Salty Code Productions. U dient zich ervan bewust te zijn dat Salty Code Productions niet verantwoordelijk is voor het privacybeleid van andere software. Door gebruik te maken van onze software geeft u aan het privacy beleid te accepteren.
@@ -29,6 +31,32 @@ Wij bieden alle bezoekers de mogelijkheid tot het inzien, veranderen, of verwijd
 Als u uw gegevens aan wilt passen of uzelf uit onze bestanden wilt laten halen, kunt u contact met ons op nemen. Zie onderstaande contactgegevens.
 
 Vragen en feedback
-We controleren regelmatig of we aan dit privacybeleid voldoen. Als u vragen heeft over dit privacybeleid, kunt u contact met ons opnemen:  
-Salty Code Productions  
-*saltycodeproductions@outlook.com*
+We controleren regelmatig of we aan dit privacybeleid voldoen. Als u vragen heeft over dit privacybeleid, kunt u contact met ons opnemen via [contact@saltycodeproductions.nl](mailto:contact@saltycodeproductions.nl)
+
+---
+
+# Privacy policy Salty Code Productions
+
+We are aware that you trust us. We therefore see it as our responsibility to protect your privacy. On this page, we let you know which data we collect when you use our software, why we collect this data and how we improve your user experience with it. This way you know exactly how we work. This privacy policy applies to the services of Salty Code Productions. You should be aware that Salty Code Productions is not responsible for the privacy policy of other software. By using our software, you indicate that you accept the privacy policy. Salty Code Productions respects the privacy of all users of its software and ensures that the personal information you provide us with is treated confidentially.
+
+# Our use of the collected data
+## Usage of our services
+Only in case of direct communication with Salty Code Productions, contact information may be kept. See the Communication section for this. When you use products through third parties such as the Windows Store, no personal data is collected or stored by Salty Code Productions, but may be by this third party. Consult the privacy policy of this third party for more information.
+
+## Communication
+When you send us emails or other messages, it is possible that we will keep those messages. Sometimes we will ask for your personal information that is relevant for the specific situation. This allows us to process your questions and respond to your requests. The data is stored on secure email servers of a third party. We will not combine this data with other personal information that we have.
+
+## Purpose
+We do not collect or use information for purposes other than those described in this privacy policy unless we have obtained your prior consent.
+
+## Third parties
+The information is not shared with third parties, unless we have obtained your prior consent.
+
+## Updates
+This privacy statement is aligned with the use and capabilities of our software. Any adjustments and/or changes to our software may lead to changes in this privacy statement. It is therefore advisable to consult this privacy statement regularly.
+
+## Choices for personal information
+To all users of our software and services we offer the possibility to view, change or delete all personal information that we have about you. You can do this by sending an email. Refer to the contact details at the bottom of this privacy statement.
+
+## Questions and feedback
+We regularly check whether we comply with this privacy statement. If you have any questions about this privacy statement, please send an email to [contact@saltycodeproductions.nl](mailto:contact@saltycodeproductions.nl).
