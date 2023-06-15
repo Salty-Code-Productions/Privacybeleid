@@ -2,7 +2,7 @@
 
 > English below
 
-Deze pagina is voor het laatst aangepast op 29-03-2023.  
+Deze pagina is voor het laatst aangepast op 15-06-2023.  
 
 Wij zijn er van bewust dat u vertrouwen stelt in ons. Wij zien het dan ook als onze verantwoordelijkheid om uw privacy te beschermen. Op deze pagina laten we u weten welke gegevens we verzamelen als u onze software gebruikt, waarom we deze gegevens verzamelen en hoe we hiermee uw gebruikservaring verbeteren. Zo snapt u precies hoe wij werken.
 Dit privacybeleid is van toepassing op de diensten van Salty Code Productions. U dient zich ervan bewust te zijn dat Salty Code Productions niet verantwoordelijk is voor het privacybeleid van andere software. Door gebruik te maken van onze software geeft u aan het privacy beleid te accepteren.
@@ -27,10 +27,7 @@ Deze privacyverklaring is afgestemd op het gebruik van en de mogelijkheden van o
 ## Keuzes voor persoonsgegevens
 Wij bieden alle bezoekers de mogelijkheid tot het inzien, veranderen, of verwijderen van alle persoonlijke informatie die op moment aan ons is verstrekt.
 
-## Aanpassen/uitschrijven communicatie
-Als u uw gegevens aan wilt passen of uzelf uit onze bestanden wilt laten halen, kunt u contact met ons op nemen. Zie onderstaande contactgegevens.
-
-Vragen en feedback
+## Vragen en feedback
 We controleren regelmatig of we aan dit privacybeleid voldoen. Als u vragen heeft over dit privacybeleid, kunt u contact met ons opnemen via [contact@saltycodeproductions.nl](mailto:contact@saltycodeproductions.nl)
 
 ---
